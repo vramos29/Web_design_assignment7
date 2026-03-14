@@ -10,7 +10,6 @@ for (let i = 0; i < favoriteFoods.length; i++) {
 }
 
 
-
 // 3. Print out the rating for each food with a ranking like:
 // "My #1 favorite food is Ramen" (copy/paste for all items)
 // "My #2 favorite food is Sushi"
@@ -87,3 +86,5 @@ if (longFoodNames.length > shortFoodNames) {
 
 // 10. STRETCH: Find the longest food name and print:
 // "The longest food name in the list is ______ with ___ characters."
+
+//I attempted this but could not figure it out.
